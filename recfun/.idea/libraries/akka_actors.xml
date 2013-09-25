@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="akka-actors">
+    <CLASSES>
+      <root url="file://C:/Program Files (x86)/scala/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files (x86)/scala/src" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files (x86)/scala/lib" recursive="false" />
+    <jarDirectory url="file://C:/Program Files (x86)/scala/src" recursive="false" type="SOURCES" />
+  </library>
+</component>
